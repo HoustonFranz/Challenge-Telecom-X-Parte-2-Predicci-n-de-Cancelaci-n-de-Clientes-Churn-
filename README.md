@@ -126,7 +126,7 @@ Los clientes con **contratos mensuales**, **pocos meses de permanencia** y **cob
 
 1. Clona el repositorio:
 ```bash
-   git clone https://github.com/tu-usuario/challenge-telecom-x-parte-2.git
+   git clone (https://github.com/HoustonFranz/Challenge-Telecom-X-Parte-2-Predicci-n-de-Cancelaci-n-de-Clientes-Churn-.git)
 ```
 2. Abre el notebook en Google Colab o Jupyter:
 ```
