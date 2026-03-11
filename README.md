@@ -17,6 +17,7 @@ El proyecto forma parte de una serie de desafíos de Data Science sobre la empre
 ```
 ├── Challenge_Telecom_X_parte_2.ipynb   # Notebook principal con el pipeline completo
 └── README.md                           # Este archivo
+└── datos_tratados.csv                         # Base de datos ya tratados en la primera parte de challenge
 ```
 
 ---
@@ -134,7 +135,7 @@ Los clientes con **contratos mensuales**, **pocos meses de permanencia** y **cob
 ```
 3. Ejecuta las celdas en orden secuencial.
 
-> **Nota:** El notebook asume que el dataset ya fue procesado en la Parte 1 del challenge. Asegúrate de tener disponible el DataFrame `datos` con las columnas descritas.
+> **Nota:** El notebook asume que el dataset ya fue procesado en la Parte 1 del challenge. El DataFrame `datos` con las columnas descritas se encuentra en el archivo datos_tratados.csv.
 
 ---
 
